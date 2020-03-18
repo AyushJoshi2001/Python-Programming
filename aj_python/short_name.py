@@ -1,3 +1,4 @@
+# short the name like (ayush joshi = a.j.)
 s = input('Enter name: ').split(' ')
 a = []
 for i in s:
