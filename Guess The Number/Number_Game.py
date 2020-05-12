@@ -15,3 +15,4 @@ while (True):
     else:
         print('Congratulations! You guessed the right Number.')
         break
+input() 
